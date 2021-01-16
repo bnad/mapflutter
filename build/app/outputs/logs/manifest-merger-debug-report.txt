@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:google_maps_flutter] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:integration_test] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\b1c311e5aba9f3af0345511bded4aec1\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ac3ef5c9673bd27c40eacec46e2c5b0d\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\254a71cd8f9558c895a5681e3665989c\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\3aa83e6e75b8a30f03b938590aafdd76\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\219a1c92e4147b4b27ae72aa4a9f1dfc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\bd8e1bf22055b7f0592a240dfb63a736\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d0ea37240b8c08909789a805461c3b88\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d8e5b39117b461360a22101a391bc9c6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:2:5-51
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d0ea37240b8c08909789a805461c3b88\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d0ea37240b8c08909789a805461c3b88\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:9:9-52
+	android:icon
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:10:9-43
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:8:9-57
+meta-data#com.google.android.gms.version
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:11:7-13:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:12:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:14:9-16:71
+	android:value
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:16:13-68
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:15:13-58
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:17:9-29:20
+	android:hardwareAccelerated
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:19:13-116
+	android:theme
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:17:19-78
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:22:13-24:40
+	android:value
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:24:17-37
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:23:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:27:27-74
+activity#io.flutter.plugins.googlemapsexample.EmbeddingV1Activity
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:hardwareAccelerated
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:34:13-47
+	android:windowSoftInputMode
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:35:13-55
+	android:configChanges
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:33:13-116
+	android:theme
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:31:13-48
+meta-data#flutterEmbedding
+ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:9-71
+	android:value
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:52-69
+	android:name
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:20-51
+uses-sdk
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:google_maps_flutter] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\601c13096e70958e650ad4593cca8c75\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\b1c311e5aba9f3af0345511bded4aec1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\b1c311e5aba9f3af0345511bded4aec1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ac3ef5c9673bd27c40eacec46e2c5b0d\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ac3ef5c9673bd27c40eacec46e2c5b0d\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\254a71cd8f9558c895a5681e3665989c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\254a71cd8f9558c895a5681e3665989c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\3aa83e6e75b8a30f03b938590aafdd76\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\3aa83e6e75b8a30f03b938590aafdd76\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\219a1c92e4147b4b27ae72aa4a9f1dfc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\219a1c92e4147b4b27ae72aa4a9f1dfc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\bd8e1bf22055b7f0592a240dfb63a736\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\bd8e1bf22055b7f0592a240dfb63a736\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d0ea37240b8c08909789a805461c3b88\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d0ea37240b8c08909789a805461c3b88\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d8e5b39117b461360a22101a391bc9c6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\d8e5b39117b461360a22101a391bc9c6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79

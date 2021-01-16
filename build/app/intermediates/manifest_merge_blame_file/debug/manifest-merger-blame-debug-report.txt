@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.googlemapsexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:4:5-66
+11-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:5:5-78
+12-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:5:22-76
+13    <!-- Include required permissions for Google Maps API to run. -->
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+19
+20    <application
+20-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:7:5-38:19
+21        android:name="io.flutter.app.FlutterApplication"
+21-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:8:9-57
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c69dff51eda740b9d8e41de9637149e8\core-1.1.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:10:9-43
+25        android:label="google_maps_flutter_example" >
+25-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:9:9-52
+26        <meta-data
+26-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:11:7-13:69
+27            android:name="com.google.android.gms.version"
+27-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:12:13-58
+28            android:value="@integer/google_play_services_version" />
+28-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:13:13-66
+29        <meta-data
+29-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:14:9-16:71
+30            android:name="com.google.android.geo.API_KEY"
+30-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:15:13-58
+31            android:value="AIzaSyCrO_NnOQ_lrNJ6TbjXS-l2bFBe2FJmhcU" />
+31-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:16:13-68
+32
+33        <activity
+33-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:17:9-29:20
+34            android:name="io.flutter.embedding.android.FlutterActivity"
+34-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:17:19-78
+35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale"
+35-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:19:13-116
+36            android:hardwareAccelerated="true"
+36-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:20:13-47
+37            android:theme="@style/LaunchTheme"
+37-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:18:13-47
+38            android:windowSoftInputMode="adjustResize" >
+38-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:21:13-55
+39            <meta-data
+39-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:22:13-24:40
+40                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+40-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:23:17-82
+41                android:value="true" />
+41-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:24:17-37
+42
+43            <intent-filter>
+43-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:25:13-28:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:26:17-68
+44-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:26:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:27:17-76
+46-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:27:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:30:9-36:20
+50            android:name="io.flutter.plugins.googlemapsexample.EmbeddingV1Activity"
+50-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:31:13-48
+51            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale"
+51-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:33:13-116
+52            android:hardwareAccelerated="true"
+52-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:34:13-47
+53            android:theme="@style/LaunchTheme"
+53-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:32:13-47
+54            android:windowSoftInputMode="adjustResize" >
+54-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:35:13-55
+55        </activity>
+56
+57        <meta-data
+57-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:9-71
+58            android:name="flutterEmbedding"
+58-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:20-51
+59            android:value="2" />
+59-->E:\project\plugins\packages\google_maps_flutter\google_maps_flutter\example\android\app\src\main\AndroidManifest.xml:37:52-69
+60        <!-- Needs to be explicitly declared on P+ -->
+61        <uses-library
+61-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+62            android:name="org.apache.http.legacy"
+62-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+63            android:required="false" />
+63-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+64
+65        <activity
+65-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+66            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+66-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+67            android:exported="false"
+67-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\7559\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+69    </application>
+70
+71</manifest>
